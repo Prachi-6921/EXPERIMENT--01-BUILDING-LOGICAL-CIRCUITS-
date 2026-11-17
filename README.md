@@ -161,9 +161,29 @@ For each circuit, record:
 - Functional equivalence before and after simplification
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
+Equation 1
+<img width="319" height="210" alt="Screenshot 2026-10-31 201851" src="https://github.com/user-attachments/assets/c8373c14-7bea-487c-909b-a6c015320d1d" />
 
+Equation 2
+<img width="306" height="179" alt="Screenshot 2026-10-31 202422" src="https://github.com/user-attachments/assets/6fa5714a-cda3-4364-afea-eeed52d4b9a1" />
 
+Equation 3
+<img width="224" height="122" alt="Screenshot 2026-10-31 203110" src="https://github.com/user-attachments/assets/d081b0ee-e5c3-4921-a80f-2e77f4a2ba1f" />
 
+Equation 4
+<img width="455" height="316" alt="Screenshot 2026-10-31 204422" src="https://github.com/user-attachments/assets/1dd2104b-2336-4616-8316-20da33e55684" />
+
+Equation 5
+<img width="405" height="373" alt="Screenshot 2026-10-31 210158" src="https://github.com/user-attachments/assets/398dab56-9eae-4571-8197-73a2638c2a48" />
+
+Equation 6
+<img width="428" height="327" alt="Screenshot 2026-10-31 211247" src="https://github.com/user-attachments/assets/06a6879e-0671-4847-8a34-28e102cc5614" />
+
+Equation 7
+<img width="396" height="293" alt="Screenshot 2026-10-31 205621" src="https://github.com/user-attachments/assets/36b34b44-a42d-4454-9253-5e7df78a6be6" />
+
+Equation 8
+<img width="425" height="333" alt="Screenshot 2026-10-31 211956" src="https://github.com/user-attachments/assets/3b70429b-5111-4f3a-b04b-377b1561203c" />
 
  
 ## 8. Result
